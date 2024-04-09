@@ -5,7 +5,7 @@
 
 # <h3> Trabalho 02 - TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente) <h3>
 * Cap. 04 (Estrutura Condicional) 
-* Cap. 05 (Estrutura de Repetição
+* Cap. 05 (Estrutura de Repetição)
 <br>
 
  ## Turma
