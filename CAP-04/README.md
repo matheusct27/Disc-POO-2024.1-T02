@@ -27,8 +27,12 @@
 |24|Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:|
 |25|Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).|
 
-
+# Exercícios Propostos
 |Questão|Enunciado|
 |-------|---------|
+|05|Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário.|
+|02|Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:|
+|12|Faça um programa que receba o salário bruto de um funcionário e, usando a tabela a seguir, calcule e mostre o valor a receber. Sabe-se que este é composto pelo salário bruto acrescido de gratificação e descontado o imposto de 7% sobre o salário.|
+|16|Uma empresa decide aplicar descontos nos seus preços usando a tabela a seguir. Faça um programa que receba o preço atual de um produto e seu código, calcule e mostre o valor do desconto e o novo preço.|
+|18|Faça um programa que receba a idade de uma pessoa e mostre a mensagem de maioridade ou não.|
 
-</details>
